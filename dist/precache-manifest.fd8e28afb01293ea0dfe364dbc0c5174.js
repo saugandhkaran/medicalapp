@@ -4,11 +4,11 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/medicalapp/css/about.9ad4edf8.css"
   },
   {
-    "revision": "e63d17fe7218571177ff",
-    "url": "/medicalapp/css/app.3f4dea39.css"
+    "revision": "b5aa2df943c017fdef7b",
+    "url": "/medicalapp/css/app.2944f0bc.css"
   },
   {
-    "revision": "985f9159940a56aeeaf6be91537e231f",
+    "revision": "a7ed642603a9fddadc4025064074a74f",
     "url": "/medicalapp/index.html"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/medicalapp/js/about.a2eb669d.js"
   },
   {
-    "revision": "e63d17fe7218571177ff",
-    "url": "/medicalapp/js/app.c0705be2.js"
+    "revision": "b5aa2df943c017fdef7b",
+    "url": "/medicalapp/js/app.aed0b726.js"
   },
   {
     "revision": "dcdf5be343b133eaabed",
