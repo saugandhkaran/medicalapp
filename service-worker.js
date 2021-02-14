@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/medicalapp/precache-manifest.fd8e28afb01293ea0dfe364dbc0c5174.js"
+  "/medicalapp/precache-manifest.9b16f7c72d045f3a0ee8c4fb7045d700.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "vumc"});
