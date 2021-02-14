@@ -3,8 +3,8 @@
     <h1>Your result</h1>
     <div class="home">
       <div>
-        <h2 class="options animate__animated animate__fadeIn">Heart issue</h2>
-        <img class="options animate__animated animate__fadeIn" src="https://source.unsplash.com/Tmkwl7EjVtE/300x300" alt="heart"/>
+        <h2 class="options animate__animated animate__fadeIn">Nearsightedness</h2>
+        <img class="options animate__animated animate__fadeIn" src="https://d2ebzu6go672f3.cloudfront.net/media/content/images/bigstock-Human-eye-13953725.jpg" alt="heart"/>
       </div>
       <div>
         <h3 class="options animate__animated animate__fadeIn">
@@ -59,6 +59,8 @@ h1 {
     min-height: 60vh;
     img {
       border-radius: 6px;
+      width: 300px;
+      height: 300px;
     }
 }
 
