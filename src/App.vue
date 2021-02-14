@@ -31,6 +31,10 @@ background-image: url("data:image/svg+xml,%3Csvg width='32' height='64' viewBox=
   color: #5D503F;
 }
 
+.flex-container {
+  display: flex;
+}
+
 .content {
   max-width: 1200px;
   margin: 0 auto;
