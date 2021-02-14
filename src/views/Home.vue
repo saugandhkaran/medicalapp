@@ -43,70 +43,63 @@ export default {
       previousOption: 0,
       questions: [
         {
-          question: "How are you doing?",
+          question: "Which problem can I help you with?",
           options: [
             {
-              option: "Well",
-              image: "https://source.unsplash.com/W5OwUWIvMa8/300x300"
+              option: "Eyes",
+              image: "https://d2ebzu6go672f3.cloudfront.net/media/content/images/cr/7ae782c0-24f9-4128-97a9-8b64432bce76.jpg"
             },
             {
-              option: "Not good",
-              image: "https://source.unsplash.com/8rj4sz9YLCI/300x300"
+              option: "Heart",
+              image: "https://www.heart.org/-/media/images/news/2019/february-2019/0225heartcancer_sc.png"
             },
             {
-              option: "Great",
-              image: "https://source.unsplash.com/R6NucBqVIaM/300x300"
+              option: "Brain",
+              image: "https://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/articles/image_article_collections/anatomy_pages/brain2.jpg?resize=646px:*&output-quality=100"
             }
           ]
         },
         {
-          question: "What is your thing",
+          question: "what is the problem?",
           options: [
             {
-              option: "Lorem",
-              image: "https://source.unsplash.com/701-FJcjLAQ/300x300"
+              option: "Eye Sight",
+              image: "https://www.maloneyvision.com/patient-education/online-books/life-without-glasses/why-you-need-glasses/images/why-you-need-glasses1.jpg"
             },
             {
-              option: "Ipsum",
-              image: "https://source.unsplash.com/7JX0-bfiuxQ/300x300"
+              option: "Dryness",
+              image: "https://www.mayoclinic.org/-/media/kcms/gbs/patient-consumer/images/2013/11/15/17/42/ds00463_-ds01096_im02751_r7_tearglandthu_jpg.jpg"
             },
             {
-              option: "Wow",
-              image: "https://source.unsplash.com/Us3AQvyOP-o/300x300"
+              option: "Tearing",
+              image: "https://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/articles/health_tools/why_are_my_eyes_watery_slideshow/493ss_getty_rf_watery_eye.jpg"
             }
           ]
         },
         {
-          question: "Blah blah blah?",
+          question: "Which side of eyes?",
           options: [
             {
-              option: "Yes",
-              image: "https://source.unsplash.com/w9KEokhajKw/300x300"
+              option: "Left",
+              image: "https://d2ebzu6go672f3.cloudfront.net/media/content/images/bigstock-Human-eye-13953725.jpg"
             },
             {
-              option: "No",
-              image: "https://source.unsplash.com/CKxD_Qh6ULY/300x300"
-            },
-            {
-              option: "Maybe",
-              image: "https://source.unsplash.com/nss2eRzQwgw/300x300"
+              option: "Right",
+              image: "https://images.fineartamerica.com/images-medium-large-5/1-right-eye-left-side-linda-magnanti.jpg"
             }
+            
           ]
         },
         {
-          question: "Great day folks?",
+          question: "Which type of vision problem?",
           options: [
             {
-              option: "Yeah",
-              image: "https://source.unsplash.com/kfJkpeI6Lgc/300x300"
+              option: "Farsightedness",
+              image: "https://cdn.britannica.com/44/63344-050-D20C0E4A/farsightedness-glasses-Hyperopia-lenses-effort-object-focus.jpg"
             },
             {
-              option: "Bah",
-              image: "https://source.unsplash.com/pszENPYeVj4/300x300"
-            },
-            {
-              option: "Top!",
-              image: "https://source.unsplash.com/ouyjDk-KdfY/300x300"
+              option: "Nearsightedness",
+              image: "https://cdn.britannica.com/45/63345-050-7BD73D28/nearsightedness-glasses-Myopia-lenses-focus-eye-objects.jpg"
             }
           ]
         }
